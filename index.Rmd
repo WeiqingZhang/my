@@ -1,6 +1,13 @@
 ---
 title: "Weiqing Zhang"
 ---
+<style>
+.list-group-item.active,.list-group-
+item.active：focus,. list-group-
+item.active:hover{
+background-color: grey
+}
+</style>
 
 ![Weiqing](images/Weiqing.jpg)
 
