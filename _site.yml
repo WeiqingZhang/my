@@ -3,7 +3,9 @@ author: "Weiqing Zhang"
 output_dir: "docs"  
 output:  
   html_document:  
+    css: style.css
     self_contained: no  
-    theme: flatly  
+    theme: flatly 
+    css: style.css
 navbar:  
   title: "My First Webpage" 
