@@ -1,5 +1,11 @@
 
 h1 {
   text-align: left;
+  font: "arial";
   color: grey ;
+}
+
+.tocify.list-group-item{
+  background-color:purple
+  
 }
