@@ -5,7 +5,7 @@ h1 {
   color: grey ;
 }
 
-.tocify.list-group-item{
-  background-color:purple
-  
+body {
+  color: inherit;
+  background-color: rgb(18, 89, 231);
 }
